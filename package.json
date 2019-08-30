@@ -1,0 +1,24 @@
+{
+  "name": "async-func",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parse": "^2.7.0",
+    "parse-server": "^3.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simone-cogno/async-function-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simone-cogno/async-function-example/issues"
+  },
+  "homepage": "https://github.com/Simone-cogno/async-function-example#readme"
+}
