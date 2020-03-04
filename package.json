@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "parse": "^2.7.0",
-    "parse-server": "^3.8.0"
+    "parse-server": "^4.1.0"
   },
   "devDependencies": {},
   "scripts": {
